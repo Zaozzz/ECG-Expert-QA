@@ -3,7 +3,7 @@ This is a repository for reproducing the paper [ECG-Expert-QA: A Benchmark for E
 
 ## Usage
 ### Prepare Datasets
-We use 1 public datasets in our model, they can be downloaded from:
+We use a public datasets in our model, they can be downloaded from:
 * [MIMIC-IV-ECG](https://physionet.org/content/mimic-iv-ecg/1.0/)
 
 The preprocessing code for these datasets, including extracting waveform data, converting to WFDB format, etc., can be found in our previous work [ECG Chat](https://github.com/YubaoZhao/ECG-Chat).
