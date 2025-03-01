@@ -11,6 +11,8 @@ The preprocessing code for these datasets, including extracting waveform data, c
 ### Use this benchmark to evaluate
 You can refer to the code in our code.py file
 
+The complete test code will be released soon
+
 ## Citation
 If you think that our work is useful to your research, please cite using this BibTeX:
 ```bibtex
