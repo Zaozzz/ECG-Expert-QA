@@ -18,7 +18,7 @@ If you think that our work is useful to your research, please cite using this Bi
 ```bibtex
 @misc{wang2025ecgexpertqa,
     title={ECG-Expert-QA: A Benchmark for Evaluating Medical Large Language Models in Heart Disease Diagnosis},
-    author={Xu Wang and Jiaju Kang and Puyu Han},
+    author={Xu Wang and Jiaju Kang and Puyu Han and Yubao Zhao and Qian Liu and Liwenfei He and Lingqiong Zhang and Lingyun Dai and Yongcheng Wang and Jie Tao},
     year={2025},
     eprint={2502.17475},
     archivePrefix={arXiv},
