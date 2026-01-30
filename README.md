@@ -1,5 +1,5 @@
 # ECG-Expert-QA
-This is a repository for reproducing the paper [ECG-Expert-QA: A Benchmark for Evaluating Medical Large Language Models in Heart Disease Diagnosis](https://export.arxiv.org/abs/2502.17475)
+This is a repository for reproducing the paper [ECG-Expert-QA: A Benchmark for Evaluating Medical Large Language Models in ECG](https://ieeexplore.ieee.org/document/11356744)
 
 ## Usage
 ### Prepare Datasets
@@ -16,13 +16,16 @@ The complete test code will be released soon
 ## Citation
 If you think that our work is useful to your research, please cite using this BibTeX:
 ```bibtex
-@misc{wang2025ecgexpertqa,
-    title={ECG-Expert-QA: A Benchmark for Evaluating Medical Large Language Models in Heart Disease Diagnosis},
-    author={Xu Wang and Jiaju Kang and Puyu Han and Yubao Zhao and Qian Liu and Liwenfei He and Lingqiong Zhang and Lingyun Dai and Yongcheng Wang and Jie Tao},
-    year={2025},
-    eprint={2502.17475},
-    archivePrefix={arXiv},
-    primaryClass={eess.SP}
-}
+@INPROCEEDINGS{11356744,
+  author={Wang, Xu and Kang, Jiaju and Han, Puyu and Liu, Ruida and Gong, Luqi and Fan, Fanda},
+  booktitle={2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, 
+  title={ECG-Expert-QA: A Benchmark for Evaluating Medical Large Language Models in ECG}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={5718-5723},
+  keywords={Ethics;Large language models;Semantics;Electrocardiography;Benchmark testing;Cognition;Robustness;Safety;Medical diagnostic imaging;Software development management;ECG Interpretation;Medical Large Language Models;Multi-turn QA;Cross-modal Clinical Reasoning;Ethical and Risk-aware Evaluation},
+  doi={10.1109/BIBM66473.2025.11356744}}
+
 ```
 If you have questions about this repo, please submit an issue or contact [kangjiaju@fuxi-lab.com](mailto:kangjiaju@fuxi-lab.com).
