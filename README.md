@@ -21,8 +21,6 @@ If you think that our work is useful to your research, please cite using this Bi
   booktitle={2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, 
   title={ECG-Expert-QA: A Benchmark for Evaluating Medical Large Language Models in ECG}, 
   year={2025},
-  volume={},
-  number={},
   pages={5718-5723},
   keywords={Ethics;Large language models;Semantics;Electrocardiography;Benchmark testing;Cognition;Robustness;Safety;Medical diagnostic imaging;Software development management;ECG Interpretation;Medical Large Language Models;Multi-turn QA;Cross-modal Clinical Reasoning;Ethical and Risk-aware Evaluation},
   doi={10.1109/BIBM66473.2025.11356744}}
