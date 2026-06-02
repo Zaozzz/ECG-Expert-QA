@@ -64,11 +64,11 @@ This repository provides resources for reproducing our paper:
 
 We use public ECG datasets in this benchmark. The dataset used in our experiments can be downloaded from:
 
-- [MIMIC-IV-ECG](https://physionet.org/content/mimic-iv-ecg/)
+- [MIMIC-IV-ECG]
 
 The preprocessing pipeline—including ECG waveform extraction, signal processing, and conversion to WFDB format—follows our previous work:
 
-- [ECG-Chat](https://github.com/YOUR-REPO/ECG-Chat)
+- [ECG-Chat]
 
 Please refer to the **ECG-Chat** repository for detailed preprocessing instructions.
 
