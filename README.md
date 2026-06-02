@@ -24,7 +24,6 @@ This repository provides resources for reproducing our paper:
 > ECG-Expert-QA: A Benchmark for Evaluating Medical Large Language Models in ECG  
 > Xu Wang, Jiaju Kang, Puyu Han, Ruida Liu, Luqi Gong, Fanda Fan  
 > IEEE International Conference on Bioinformatics and Biomedicine, 2025  
-> [Paper]
 
 ---
 
@@ -36,12 +35,6 @@ This repository provides resources for reproducing our paper:
 - 🔍 Cross-modal clinical reasoning combining ECG-related information and textual QA.
 - ⚠️ Risk-aware evaluation for assessing robustness, safety, and clinical reliability.
 - 📊 Reproducible evaluation setting based on public ECG resources.
-
----
-
-## 📁 Repository Structure
-
-text ECG-Expert-QA/ ├── code.py              # Example evaluation code ├── README.md            # Project description └── ...                  # More files will be released soon 
 
 ---
 
