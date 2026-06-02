@@ -93,9 +93,9 @@ ECG-Expert-QA is designed to evaluate several key abilities of medical large lan
 - [x] Release basic repository.
 - [x] Provide paper link and citation.
 - [x] Provide dataset preparation reference.
-- [ ] Release complete benchmark data.
-- [ ] Release full evaluation scripts.
-- [ ] Release model evaluation examples.
+- [x] Release complete benchmark data.
+- [x] Release full evaluation scripts.
+- [x] Release model evaluation examples.
 - [ ] Add detailed leaderboard.
 
 ---
@@ -104,7 +104,14 @@ ECG-Expert-QA is designed to evaluate several key abilities of medical large lan
 
 If you find this benchmark useful for your research, please cite our paper:
 
-bibtex @INPROCEEDINGS{11356744,   author={Wang, Xu and Kang, Jiaju and Han, Puyu and Liu, Ruida and Gong, Luqi and Fan, Fanda},   booktitle={2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},    title={ECG-Expert-QA: A Benchmark for Evaluating Medical Large Language Models in ECG},    year={2025},   pages={5718-5723},   keywords={Ethics;Large language models;Semantics;Electrocardiography;Benchmark testing;Cognition;Robustness;Safety;Medical diagnostic imaging;Software development management;ECG Interpretation;Medical Large Language Models;Multi-turn QA;Cross-modal Clinical Reasoning;Ethical and Risk-aware Evaluation},   doi={10.1109/BIBM66473.2025.11356744} } 
+bibtex 
+@INPROCEEDINGS{11356744,   
+author={Wang, Xu and Kang, Jiaju and Han, Puyu and Liu, Ruida and Gong, Luqi and Fan, Fanda},   
+booktitle={2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},    
+title={ECG-Expert-QA: A Benchmark for Evaluating Medical Large Language Models in ECG},    
+year={2025},   pages={5718-5723},   
+keywords={Ethics;Large language models;Semantics;Electrocardiography;Benchmark testing;Cognition;Robustness;Safety;Medical diagnostic imaging;Software development management;ECG Interpretation;Medical Large Language Models;Multi-turn QA;Cross-modal Clinical Reasoning;Ethical and Risk-aware Evaluation},   
+doi={10.1109/BIBM66473.2025.11356744} } 
 
 ---
 
