@@ -1,6 +1,6 @@
-# 🫀 ECG-Expert-QA : A Benchmark for Evaluating Medical Large Language Models in ECG
-
 <div align="center">
+
+# 🫀 ECG-Expert-QA
 
 [![Paper](https://img.shields.io/badge/Paper-BIBM2025-blue)](https://doi.org/10.1109/BIBM66473.2025.11356744)
 [![Benchmark](https://img.shields.io/badge/Benchmark-ECG--Expert--QA-green)](#-overview)
