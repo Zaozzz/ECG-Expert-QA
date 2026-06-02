@@ -18,7 +18,7 @@
 **ECG-Expert-QA** is a benchmark designed to evaluate the ECG interpretation and clinical reasoning capabilities of medical large language models.
 
 <div align="center">
-  <img src="overall.jpg" alt="ECG-Expert-QA" width="600"/>
+  <img src="overall.png" alt="ECG-Expert-QA" width="600"/>
 </div>
 
 Unlike general medical QA datasets, ECG-Expert-QA focuses on expert-level electrocardiogram understanding. It covers ECG signal interpretation, clinical decision reasoning, multi-turn question answering, and risk-aware evaluation, providing a more specialized testbed for medical LLMs in cardiovascular scenarios.
